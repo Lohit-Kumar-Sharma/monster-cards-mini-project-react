@@ -17,8 +17,17 @@ code {
     monospace;
 }
 h1{
+  font-family: 'Bigelow Rules', cursive;
+font-family: 'Baloo Chettan 2', cursive;
   color:white;
 }
 h2{
+  font-family: 'Bigelow Rules', cursive;
+font-family: 'Baloo Chettan 2', cursive;
   color:white;
+}
+h3{
+  font-family: 'Bigelow Rules', cursive;
+font-family: 'Baloo Chettan 2', cursive;
+  color: white;
 }

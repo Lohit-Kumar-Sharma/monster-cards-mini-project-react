@@ -27,10 +27,12 @@ class App extends Component{
       console.log(""+monsters+" "+searchText);
     return(
           <div className='App'>
+            
+              <h2><div id='app_title'>Monster Cards</div></h2>
+            
           <h1>#100daysofcode Challange</h1>
-          <h2>Learning React</h2>
           <h2>Instagram @coding_aasan_hai</h2>
-          
+          <h3>Disclaimer: Data is coming from an API response. Please expect some delay! :P</h3>
           <SearchBox placeholder ='Search Monsters' handleChange={e => this.setState({searchText : e.target.value})} />
           <CardLista monsters = {filteredmonsters}>
            
