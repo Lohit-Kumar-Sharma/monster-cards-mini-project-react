@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-cards-mini-project-react/static/css/main.a35e5ca4.chunk.css",
+    "main.js": "/monster-cards-mini-project-react/static/js/main.052082b6.chunk.js",
+    "main.js.map": "/monster-cards-mini-project-react/static/js/main.052082b6.chunk.js.map",
+    "runtime-main.js": "/monster-cards-mini-project-react/static/js/runtime-main.2daf6f94.js",
+    "runtime-main.js.map": "/monster-cards-mini-project-react/static/js/runtime-main.2daf6f94.js.map",
+    "static/js/2.4531020a.chunk.js": "/monster-cards-mini-project-react/static/js/2.4531020a.chunk.js",
+    "static/js/2.4531020a.chunk.js.map": "/monster-cards-mini-project-react/static/js/2.4531020a.chunk.js.map",
+    "index.html": "/monster-cards-mini-project-react/index.html",
+    "precache-manifest.6a7304c9725ec69818d3c0a50a03fd68.js": "/monster-cards-mini-project-react/precache-manifest.6a7304c9725ec69818d3c0a50a03fd68.js",
+    "service-worker.js": "/monster-cards-mini-project-react/service-worker.js",
+    "static/css/main.a35e5ca4.chunk.css.map": "/monster-cards-mini-project-react/static/css/main.a35e5ca4.chunk.css.map",
+    "static/js/2.4531020a.chunk.js.LICENSE.txt": "/monster-cards-mini-project-react/static/js/2.4531020a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2daf6f94.js",
+    "static/js/2.4531020a.chunk.js",
+    "static/css/main.a35e5ca4.chunk.css",
+    "static/js/main.052082b6.chunk.js"
+  ]
+}
