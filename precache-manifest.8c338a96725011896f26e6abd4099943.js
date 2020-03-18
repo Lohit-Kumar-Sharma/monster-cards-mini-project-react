@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fdc88947c6acd2cf2743f2730cad9b8",
+    "revision": "cfcbbd979c1153cda624a84de2015464",
     "url": "/monster-cards-mini-project-react/index.html"
   },
   {
-    "revision": "1056363b403eb04d1873",
-    "url": "/monster-cards-mini-project-react/static/css/main.a35e5ca4.chunk.css"
+    "revision": "2270308eb2c11829b080",
+    "url": "/monster-cards-mini-project-react/static/css/main.22723d18.chunk.css"
   },
   {
     "revision": "8f635bfd5ab1c0519b19",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monster-cards-mini-project-react/static/js/2.4531020a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1056363b403eb04d1873",
-    "url": "/monster-cards-mini-project-react/static/js/main.1d9ac426.chunk.js"
+    "revision": "2270308eb2c11829b080",
+    "url": "/monster-cards-mini-project-react/static/js/main.683e2b49.chunk.js"
   },
   {
     "revision": "4e8573c41c7b00a15e48",
