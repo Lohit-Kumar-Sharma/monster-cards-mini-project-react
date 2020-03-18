@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monster-cards-mini-project-react/precache-manifest.6a7304c9725ec69818d3c0a50a03fd68.js"
+  "/monster-cards-mini-project-react/precache-manifest.c69ca44f4bf128141c69e21128c05903.js"
 );
 
 self.addEventListener('message', (event) => {
