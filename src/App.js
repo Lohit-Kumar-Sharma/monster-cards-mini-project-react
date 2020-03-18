@@ -28,9 +28,8 @@ class App extends Component{
     return(
           <div className='App'>
           <h1>#100daysofcode Challange</h1>
-          <h2>Day [9-100]</h2>
           <h2>Learning React</h2>
-          <h2>@coding_aasan_hai</h2>
+          <h2>Instagram @coding_aasan_hai</h2>
           
           <SearchBox placeholder ='Search Monsters' handleChange={e => this.setState({searchText : e.target.value})} />
           <CardLista monsters = {filteredmonsters}>
